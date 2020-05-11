@@ -1,0 +1,33 @@
+{
+  "name": "online-reader",
+  "version": "1.0.0",
+  "description": "online book reader ",
+  "main": "sever/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mFlaifel/online-reader.git"
+  },
+  "keywords": [
+    "['react'",
+    "'node.js'",
+    "'mongoDB'",
+    "'express'",
+    "'epub']"
+  ],
+  "author": "mFlaifel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mFlaifel/online-reader/issues"
+  },
+  "homepage": "https://github.com/mFlaifel/online-reader#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13",
+    "nodemon": "^2.0.3"
+  }
+}
