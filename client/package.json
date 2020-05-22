@@ -10,11 +10,17 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-file-reader-input": "^2.0.0",
     "react-google-login": "^5.1.20",
+    "react-reader": "^0.18.3",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-swipeable": "^5.5.1",
+    "styled-components": "^5.1.0",
+    "styled-components-breakpoint": "^3.0.0-preview.20"
   },
   "scripts": {
     "start": "react-scripts start",
